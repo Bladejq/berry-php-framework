@@ -1,0 +1,46 @@
+[25-05-20 19:37:55] Текст ошибки: Нет соединения с БД | Файл: C:\xampp\htdocs\sites\berry.loc\vendor\berry\core\Db.php | Строка: 14
+=========================
+[25-05-20 20:02:01] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:01] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:26] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:27] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:28] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:28] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:28] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:28] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:28] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:28] Текст ошибки: Class "app\controllers\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 14
+=========================
+[25-05-20 20:02:50] Текст ошибки: Class "app\cache\AppController" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 6
+=========================
+[25-05-20 20:02:51] Текст ошибки: Class "app\cache\AppController" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 6
+=========================
+[25-05-20 20:02:51] Текст ошибки: Class "app\cache\AppController" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 6
+=========================
+[25-05-20 20:02:51] Текст ошибки: Class "app\cache\AppController" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 6
+=========================
+[25-05-20 20:02:51] Текст ошибки: Class "app\cache\AppController" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 6
+=========================
+[25-05-20 20:03:21] Текст ошибки: Class "app\cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 15
+=========================
+[25-05-20 20:03:34] Текст ошибки: Class "app\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 15
+=========================
+[25-05-20 20:03:34] Текст ошибки: Class "app\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 15
+=========================
+[25-05-20 20:03:35] Текст ошибки: Class "app\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 15
+=========================
+[25-05-20 20:03:35] Текст ошибки: Class "app\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 15
+=========================
+[25-05-20 20:03:35] Текст ошибки: Class "app\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 15
+=========================
+[25-05-20 20:03:36] Текст ошибки: Class "app\Cache" not found | Файл: C:\xampp\htdocs\sites\berry.loc\app\controllers\MainController.php | Строка: 15
+=========================

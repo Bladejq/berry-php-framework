@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4" : {
+            "berry\\": "vendor/berry/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    }
+}
